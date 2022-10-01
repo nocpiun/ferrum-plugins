@@ -1,0 +1,9 @@
+{
+    "pluginList": [
+        {
+            "name": "Test",
+            "path": "plugins/test-plugins.js",
+            "version": "1.0.0"
+        }
+    ]
+}
