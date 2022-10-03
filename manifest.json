@@ -1,8 +1,13 @@
 {
     "pluginList": [
         {
-            "name": "Test",
+            "name": "example-viewer",
             "path": "plugins/test-plugin.js",
+            "version": "1.0.0"
+        },
+        {
+            "name": "dark-theme",
+            "path": "plugins/dark-theme.js",
             "version": "1.0.0"
         }
     ]
