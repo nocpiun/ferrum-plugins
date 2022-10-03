@@ -24,6 +24,7 @@ const i18n = {
             id: "dark-theme",
             css:
 `
+/* Copyright (c) NriotHrreion 2022 */
 body {
     background-color: #222;
 }
