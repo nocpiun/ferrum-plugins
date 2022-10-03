@@ -28,6 +28,9 @@ const i18n = {
 body {
     background-color: #222;
 }
+body a {
+    color: #0b6dff !important;
+}
 .explorer .main-container *,
 .explorer .sidebar-left-container *,
 .explorer .sidebar-right-container *,
@@ -95,6 +98,9 @@ body {
 }
 .plugin-list .list-group-item .plugin-name {
     color: #fff;
+}
+.login-panel .footer-container * {
+    color: #fff !important;
 }
 `
         });
