@@ -59,6 +59,10 @@ body a {
     background-color: transparent !important;
     border-color: #333;
 }
+.explorer .list-container .list-group-item .list-item-format,
+.explorer .list-container .list-group-item .list-item-size {
+    color: #9E9E9E !important;
+}
 .explorer .sidebar-right-container,
 .explorer .sidebar-right-container #about {
     border-color: #333 !important;
