@@ -106,6 +106,10 @@ body a {
 .login-panel .footer-container * {
     color: #fff !important;
 }
+.license-page textarea#license-content {
+    color: #fff !important;
+    background-color: #333;
+}
 `
         });
     },
